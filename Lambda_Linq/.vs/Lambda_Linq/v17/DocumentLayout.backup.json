@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Lambda_Linq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{832B6953-C7FB-4F52-8E75-B0F5F5259208}|Lambda_Linq\\Lambda_Linq.csproj|c:\\users\\hp\\source\\repos\\lambda_linq\\lambda_linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832B6953-C7FB-4F52-8E75-B0F5F5259208}|Lambda_Linq\\Lambda_Linq.csproj|solutionrelative:lambda_linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832B6953-C7FB-4F52-8E75-B0F5F5259208}|Lambda_Linq\\Lambda_Linq.csproj|c:\\users\\hp\\source\\repos\\lambda_linq\\lambda_linq\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832B6953-C7FB-4F52-8E75-B0F5F5259208}|Lambda_Linq\\Lambda_Linq.csproj|solutionrelative:lambda_linq\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832B6953-C7FB-4F52-8E75-B0F5F5259208}|Lambda_Linq\\Lambda_Linq.csproj|c:\\users\\hp\\source\\repos\\lambda_linq\\lambda_linq\\all.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832B6953-C7FB-4F52-8E75-B0F5F5259208}|Lambda_Linq\\Lambda_Linq.csproj|solutionrelative:lambda_linq\\all.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832B6953-C7FB-4F52-8E75-B0F5F5259208}|Lambda_Linq\\Lambda_Linq.csproj|c:\\users\\hp\\source\\repos\\lambda_linq\\lambda_linq\\last.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832B6953-C7FB-4F52-8E75-B0F5F5259208}|Lambda_Linq\\Lambda_Linq.csproj|solutionrelative:lambda_linq\\last.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832B6953-C7FB-4F52-8E75-B0F5F5259208}|Lambda_Linq\\Lambda_Linq.csproj|c:\\users\\hp\\source\\repos\\lambda_linq\\lambda_linq\\single.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832B6953-C7FB-4F52-8E75-B0F5F5259208}|Lambda_Linq\\Lambda_Linq.csproj|solutionrelative:lambda_linq\\single.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832B6953-C7FB-4F52-8E75-B0F5F5259208}|Lambda_Linq\\Lambda_Linq.csproj|c:\\users\\hp\\source\\repos\\lambda_linq\\lambda_linq\\defaultifempty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832B6953-C7FB-4F52-8E75-B0F5F5259208}|Lambda_Linq\\Lambda_Linq.csproj|solutionrelative:lambda_linq\\defaultifempty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832B6953-C7FB-4F52-8E75-B0F5F5259208}|Lambda_Linq\\Lambda_Linq.csproj|c:\\users\\hp\\source\\repos\\lambda_linq\\lambda_linq\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832B6953-C7FB-4F52-8E75-B0F5F5259208}|Lambda_Linq\\Lambda_Linq.csproj|solutionrelative:lambda_linq\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "All.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Lambda_Linq\\Lambda_Linq\\All.cs",
+              "RelativeDocumentMoniker": "Lambda_Linq\\All.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Lambda_Linq\\Lambda_Linq\\All.cs*",
+              "RelativeToolTip": "Lambda_Linq\\All.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:59:25.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Last.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Lambda_Linq\\Lambda_Linq\\Last.cs",
+              "RelativeDocumentMoniker": "Lambda_Linq\\Last.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Lambda_Linq\\Lambda_Linq\\Last.cs",
+              "RelativeToolTip": "Lambda_Linq\\Last.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:41:01.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Single.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Lambda_Linq\\Lambda_Linq\\Single.cs",
+              "RelativeDocumentMoniker": "Lambda_Linq\\Single.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Lambda_Linq\\Lambda_Linq\\Single.cs",
+              "RelativeToolTip": "Lambda_Linq\\Single.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:30:35.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DefaultIfEmpty.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Lambda_Linq\\Lambda_Linq\\DefaultIfEmpty.cs",
+              "RelativeDocumentMoniker": "Lambda_Linq\\DefaultIfEmpty.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Lambda_Linq\\Lambda_Linq\\DefaultIfEmpty.cs",
+              "RelativeToolTip": "Lambda_Linq\\DefaultIfEmpty.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:05:54.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Lambda_Linq\\Lambda_Linq\\Employee.cs",
+              "RelativeDocumentMoniker": "Lambda_Linq\\Employee.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Lambda_Linq\\Lambda_Linq\\Employee.cs",
+              "RelativeToolTip": "Lambda_Linq\\Employee.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAcwJkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:15:34.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Lambda_Linq\\Lambda_Linq\\Program.cs",
+              "RelativeDocumentMoniker": "Lambda_Linq\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Lambda_Linq\\Lambda_Linq\\Program.cs",
+              "RelativeToolTip": "Lambda_Linq\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwD0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:11:00.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Lambda_Linq\\Lambda_Linq\\Person.cs",
+              "RelativeDocumentMoniker": "Lambda_Linq\\Person.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Lambda_Linq\\Lambda_Linq\\Person.cs",
+              "RelativeToolTip": "Lambda_Linq\\Person.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwEUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T05:03:57.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

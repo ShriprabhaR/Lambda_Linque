@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Lambda_Linq\Lambda_Linq\bin\Debug\netcoreapp3.1\Lambda_Linq.exe
+C:\Users\HP\source\repos\Lambda_Linq\Lambda_Linq\bin\Debug\netcoreapp3.1\Lambda_Linq.deps.json
+C:\Users\HP\source\repos\Lambda_Linq\Lambda_Linq\bin\Debug\netcoreapp3.1\Lambda_Linq.runtimeconfig.json
+C:\Users\HP\source\repos\Lambda_Linq\Lambda_Linq\bin\Debug\netcoreapp3.1\Lambda_Linq.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Lambda_Linq\Lambda_Linq\bin\Debug\netcoreapp3.1\Lambda_Linq.dll
+C:\Users\HP\source\repos\Lambda_Linq\Lambda_Linq\bin\Debug\netcoreapp3.1\Lambda_Linq.pdb
+C:\Users\HP\source\repos\Lambda_Linq\Lambda_Linq\obj\Debug\netcoreapp3.1\Lambda_Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Lambda_Linq\Lambda_Linq\obj\Debug\netcoreapp3.1\Lambda_Linq.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Lambda_Linq\Lambda_Linq\obj\Debug\netcoreapp3.1\Lambda_Linq.AssemblyInfo.cs
+C:\Users\HP\source\repos\Lambda_Linq\Lambda_Linq\obj\Debug\netcoreapp3.1\Lambda_Linq.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Lambda_Linq\Lambda_Linq\obj\Debug\netcoreapp3.1\Lambda_Linq.sourcelink.json
+C:\Users\HP\source\repos\Lambda_Linq\Lambda_Linq\obj\Debug\netcoreapp3.1\Lambda_Linq.dll
+C:\Users\HP\source\repos\Lambda_Linq\Lambda_Linq\obj\Debug\netcoreapp3.1\Lambda_Linq.pdb
+C:\Users\HP\source\repos\Lambda_Linq\Lambda_Linq\obj\Debug\netcoreapp3.1\Lambda_Linq.genruntimeconfig.cache
